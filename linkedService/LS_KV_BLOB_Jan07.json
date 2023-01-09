@@ -1,0 +1,10 @@
+{
+	"name": "LS_KV_BLOB_Jan07",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://KV-Jan-07.vault.azure.net/"
+		}
+	}
+}
